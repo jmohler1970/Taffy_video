@@ -1,0 +1,12 @@
+{
+    "dependencies":{
+        "taffy":"git://github.com/atuttle/Taffy.git",
+        "formutils":"git://github.com/jmohler1970/FormUtils.git",
+        "northamerica":"git://github.com/jmohler1970/NorthAmerica.git"
+    },
+    "installPaths":{
+        "taffy":"taffy/",
+        "formutils":"formutils/",
+        "northamerica":"db_setup_delete"
+    }
+}
