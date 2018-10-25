@@ -5,8 +5,8 @@
         "northamerica":"git://github.com/jmohler1970/NorthAmerica.git"
     },
     "installPaths":{
-        "taffy":"taffy/",
-        "formutils":"formutils/",
-        "northamerica":"db_setup_delete"
+        "taffy":"taffy",
+        "formutils":"formutils",
+        "northamerica":"db_setup"
     }
 }

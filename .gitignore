@@ -1,7 +1,8 @@
 # Ignore Mac DS_Store files
 .DS_Store
+video.txt
 
 # 3rd party
 taffy/
 formutils/
-db_setup_delete/
+db_setup/
